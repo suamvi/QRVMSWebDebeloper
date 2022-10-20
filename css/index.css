@@ -226,6 +226,7 @@ body
     text-align: center;
     justify-content: center;
     opacity: 1;
+    text-decoration: none;
 }
 
 .card .content .details .actionBtn .botonwp
@@ -239,6 +240,7 @@ body
     text-align: center;
     justify-content: center;
     opacity: 1;
+    text-decoration: none;
 }
 
 /* form */
